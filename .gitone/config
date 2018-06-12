@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[branch "master"]
+	remote = git@github.com:ZDI1NWZlNjdiYWQ3ZDJj/test_git_one.git
+	merge = refs/heads/master
